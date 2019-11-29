@@ -1,0 +1,12 @@
+name: MuteSystem
+main: MuteSystem\Main\MuteSystem
+version: 1.0
+api: 3.0.0
+author: WolfcodeZ
+commands:
+  mute:
+    description: MuteSystem
+    permission: "ms.mute"
+  unmute:
+    description: Unmute
+    permission: "ms.unmute"
